@@ -33,8 +33,4 @@ The program includes the following functions:
 
 ---
 
-## ▶️ Usage
 
-### Compile
-```bash
-g++ projects.cpp -o projects
